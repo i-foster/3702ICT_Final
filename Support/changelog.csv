@@ -1,0 +1,90 @@
+5, , riley.say@griffithuni.edu.au, 29/04/2025 12:16:44 PM
+12, Add packages and project settings to Unity Version Control., riley.say@griffithuni.edu.au, 29/04/2025 12:19:44 PM
+17, Added Assets testing, riley.say@griffithuni.edu.au, 29/04/2025 12:59:22 PM
+19, test block, izaiah.foster@griffithuni.edu.au, 29/04/2025 3:08:58 PM
+20, moved block, izaiah.foster@griffithuni.edu.au, 29/04/2025 3:10:58 PM
+3120, Added building structures, riley.say@griffithuni.edu.au, 12/05/2025 2:15:46 PM
+3121, Hello beacon and directional arrow prototypes, izaiah.foster@griffithuni.edu.au, 12/05/2025 3:31:21 PM
+3122, Added demo ui buttons, riley.say@griffithuni.edu.au, 13/05/2025 11:33:12 AM
+3123, Removed template stuff, riley.say@griffithuni.edu.au, 13/05/2025 12:15:36 PM
+3124, Fixed movement (demo), riley.say@griffithuni.edu.au, 13/05/2025 12:23:25 PM
+3125, Demo updated (still need mesh collider stairs), riley.say@griffithuni.edu.au, 13/05/2025 12:30:37 PM
+3126, Fixed stair collisions , riley.say@griffithuni.edu.au, 13/05/2025 12:33:03 PM
+3127, Fixed up Willett centre, riley.say@griffithuni.edu.au, 13/05/2025 12:45:20 PM
+3128, main meny, izaiah.foster@griffithuni.edu.au, 13/05/2025 2:05:01 PM
+3129, Updated building , riley.say@griffithuni.edu.au, 13/05/2025 4:30:00 PM
+3130, Added Cafe Rossa, riley.say@griffithuni.edu.au, 13/05/2025 5:07:53 PM
+3137, added menu and start location, izaiah.foster@griffithuni.edu.au, 13/05/2025 6:27:10 PM
+3138, Added chairs/tables, riley.say@griffithuni.edu.au, 14/05/2025 12:38:38 PM
+3141, Working setting menu and updated scripts for ease of use, izaiah.foster@griffithuni.edu.au, 14/05/2025 1:27:29 PM
+3142, updated choice for start and end location with logic , izaiah.foster@griffithuni.edu.au, 14/05/2025 2:02:38 PM
+3144, Roof added, tamahou.scott@griffithuni.edu.au, 14/05/2025 2:38:10 PM
+3145, Help beacon colour change and script, izaiah.foster@griffithuni.edu.au, 14/05/2025 3:10:29 PM
+3146, adjusted scalling on help panel, izaiah.foster@griffithuni.edu.au, 14/05/2025 3:13:25 PM
+3147, , izaiah.foster@griffithuni.edu.au, 14/05/2025 3:23:22 PM
+3148, Fixed, riley.say@griffithuni.edu.au, 14/05/2025 3:56:18 PM
+3149, Posts, riley.say@griffithuni.edu.au, 14/05/2025 4:27:54 PM
+3150, positioning roof, riley.say@griffithuni.edu.au, 14/05/2025 6:11:27 PM
+3151, , riley.say@griffithuni.edu.au, 14/05/2025 6:11:49 PM
+3152, Added return buttons and logic to start/end menu, izaiah.foster@griffithuni.edu.au, 15/05/2025 11:33:15 AM
+4930, ., riley.say@griffithuni.edu.au, 19/05/2025 10:11:06 PM
+4931, Fixes , riley.say@griffithuni.edu.au, 19/05/2025 10:16:32 PM
+4932, Added more chairs, riley.say@griffithuni.edu.au, 19/05/2025 10:16:49 PM
+4933, Builds - left side, riley.say@griffithuni.edu.au, 19/05/2025 11:12:24 PM
+4934, Added garden sear, riley.say@griffithuni.edu.au, 19/05/2025 11:24:11 PM
+4935, Fixes, riley.say@griffithuni.edu.au, 19/05/2025 11:37:55 PM
+4940, Updated menus to new color and added sound effects for on button click
+, izaiah.foster@griffithuni.edu.au, 23/05/2025 12:55:04 PM
+4941, Added background music , izaiah.foster@griffithuni.edu.au, 23/05/2025 1:00:34 PM
+4942, Added background audio to main scene, izaiah.foster@griffithuni.edu.au, 23/05/2025 1:03:15 PM
+4945, Added hover over effect on n64 button, izaiah.foster@griffithuni.edu.au, 23/05/2025 1:21:53 PM
+4946, removed audio, izaiah.foster@griffithuni.edu.au, 23/05/2025 2:29:14 PM
+4947, , izaiah.foster@griffithuni.edu.au, 23/05/2025 2:29:38 PM
+4948, Added Edited Sample Scene and Created a Navigation System; Using NavMesh, NavAgent, LineRenderer, tamahou.scott@griffithuni.edu.au, 23/05/2025 2:41:15 PM
+5230, Edited SampleScene; Navmesh solve and GameObject cleanup, tamahou.scott@griffithuni.edu.au, 24/05/2025 1:08:01 PM
+5233, Changed StaticPathVisualiser, merged willet center, tamahou.scott@griffithuni.edu.au, 24/05/2025 1:39:15 PM
+5236, Added XR Interaction Packages (Required for VR Simulation), tamahou.scott@griffithuni.edu.au, 24/05/2025 1:46:22 PM
+5237, More Interaction requirements, tamahou.scott@griffithuni.edu.au, 24/05/2025 1:47:11 PM
+5238, Updated image show/image hide on menu flow,  added text object to n64, added same funconality to n53, izaiah.foster@griffithuni.edu.au, 25/05/2025 10:37:44 AM
+5239, added campus selection to starting menu, updated menuflow code to reflect these changes, izaiah.foster@griffithuni.edu.au, 25/05/2025 1:22:51 PM
+5251, Added ramp for users with a disability. Touched up structures, riley.say@griffithuni.edu.au, 26/05/2025 12:24:50 AM
+5252, Fixed post, riley.say@griffithuni.edu.au, 26/05/2025 12:25:49 AM
+5253, part implementation of pause menu , izaiah.foster@griffithuni.edu.au, 26/05/2025 10:16:55 AM
+5254, Added issue report and menu functionality , izaiah.foster@griffithuni.edu.au, 26/05/2025 11:25:21 AM
+5255, Added dirt, riley.say@griffithuni.edu.au, 26/05/2025 11:48:24 AM
+5256, Moved paused meny to editted sample scene, izaiah.foster@griffithuni.edu.au, 26/05/2025 12:07:20 PM
+5259, Updated config to use editted sample scene, izaiah.foster@griffithuni.edu.au, 26/05/2025 12:27:53 PM
+5260, Fixed navigation; Added a Dynamic navigation line script, tamahou.scott@griffithuni.edu.au, 26/05/2025 2:04:46 PM
+5263, Added environment trees, plants, riley.say@griffithuni.edu.au, 26/05/2025 2:16:54 PM
+5264, fixes, riley.say@griffithuni.edu.au, 26/05/2025 2:17:05 PM
+5267, Chnaged willed building to blakc text, izaiah.foster@griffithuni.edu.au, 26/05/2025 2:19:54 PM
+5268, Fixed building , riley.say@griffithuni.edu.au, 26/05/2025 2:22:09 PM
+5269, Updated menu flow for  n74, izaiah.foster@griffithuni.edu.au, 26/05/2025 2:28:10 PM
+5270, Added mesh colider to buildings, riley.say@griffithuni.edu.au, 26/05/2025 2:31:02 PM
+5271, Regrouped stuff into parent groups , riley.say@griffithuni.edu.au, 26/05/2025 2:42:54 PM
+5272, Fixed Flower positioning , riley.say@griffithuni.edu.au, 26/05/2025 2:44:55 PM
+5273, Regrouped buildings, riley.say@griffithuni.edu.au, 26/05/2025 3:09:46 PM
+5278, Added dynamic n76 pathing, baked stairs and ramp into mesh, tamahou.scott@griffithuni.edu.au, 26/05/2025 4:28:42 PM
+5281, , tamahou.scott@griffithuni.edu.au, 26/05/2025 4:29:31 PM
+5282, Disaiblity button, riley.say@griffithuni.edu.au, 26/05/2025 4:42:47 PM
+5283, Disability button, riley.say@griffithuni.edu.au, 26/05/2025 4:49:52 PM
+5289, Added Disability Script, tamahou.scott@griffithuni.edu.au, 26/05/2025 5:28:11 PM
+5290, Changed building name to n76, izaiah.foster@griffithuni.edu.au, 26/05/2025 5:31:43 PM
+5291, Removed setting and report logo,  disabilty button only appears when on pause, izaiah.foster@griffithuni.edu.au, 26/05/2025 5:57:01 PM
+5292, Fixed beacon display, riley.say@griffithuni.edu.au, 26/05/2025 6:00:53 PM
+5295, Fixed merge issue via disability panel, izaiah.foster@griffithuni.edu.au, 26/05/2025 6:08:22 PM
+8985, Deleted items, izaiah.foster@griffithuni.edu.au, 26/05/2025 6:20:15 PM
+8995, Removed items  test builds, izaiah.foster@griffithuni.edu.au, 26/05/2025 6:21:59 PM
+9133, Cleaned up directory , riley.say@griffithuni.edu.au, 26/05/2025 6:36:56 PM
+9134, Fixes, riley.say@griffithuni.edu.au, 26/05/2025 7:45:31 PM
+9135, Beacon fix, riley.say@griffithuni.edu.au, 26/05/2025 8:00:30 PM
+9136, Final, riley.say@griffithuni.edu.au, 26/05/2025 8:01:53 PM
+9142, Test build, izaiah.foster@griffithuni.edu.au, 26/05/2025 8:05:00 PM
+9143, Fixed audio bug on sample scene, izaiah.foster@griffithuni.edu.au, 29/05/2025 2:57:05 PM
+9152, Deleted unneded items , izaiah.foster@griffithuni.edu.au, 29/05/2025 2:59:23 PM
+9153, Collider fix (Polls), riley.say@griffithuni.edu.au, 29/05/2025 3:02:58 PM
+9156, Deleted sample scene, riley.say@griffithuni.edu.au, 29/05/2025 3:09:43 PM
+9165, reorganised files, izaiah.foster@griffithuni.edu.au, 29/05/2025 4:52:18 PM
+9166, , izaiah.foster@griffithuni.edu.au, 29/05/2025 4:52:25 PM
+9167, Fixes, riley.say@griffithuni.edu.au, 30/05/2025 11:52:24 AM
+9168, Code commenting, izaiah.foster@griffithuni.edu.au, 30/05/2025 1:09:21 PM
